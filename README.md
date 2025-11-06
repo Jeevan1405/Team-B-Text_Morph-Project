@@ -95,8 +95,8 @@ The application features a modern, professional interface with gradient themes, 
 
 ### Prerequisites
 - Python 3.8 or higher
-- Hugging Face API key (free)
-- GROQ API key (free)
+- Hugging Face API key are (free)
+- GROQ API key  are (free)
 
 ### Installation
 
